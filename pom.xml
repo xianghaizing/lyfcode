@@ -12,5 +12,8 @@
         <module>algorithm</module>
         <module>ssm</module>
         <module>activemq</module>
+        <module>api</module>
+        <module>dubboprovider</module>
+        <module>dubboconsumer</module>
     </modules>
 </project>
