@@ -15,5 +15,7 @@
         <module>api</module>
         <module>dubboprovider</module>
         <module>dubboconsumer</module>
+        <module>principle</module>
+        <module>thread</module>
     </modules>
 </project>
